@@ -4,3 +4,6 @@
 
 This is a simple project for beginner as a mean of learning python language and git.
 Simple traditional snake and ladder game.
+
+v0.0:
+creates README.md
